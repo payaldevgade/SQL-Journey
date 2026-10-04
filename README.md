@@ -11,7 +11,6 @@ This repository contains my SQL practice and learning journey using MySQL.
 - Primary keys
 
 
-
 - NOT NULL constraints
 - Inserting data
 - Retrieving data using SELECT
