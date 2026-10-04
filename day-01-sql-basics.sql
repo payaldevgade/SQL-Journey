@@ -1,0 +1,23 @@
+-- DAY 1: SQL BASICS
+
+CREATE DATABASE college;
+
+USE college;
+
+-- CREATE TABLE
+CREATE TABLE student (
+    id INT PRIMARY KEY,
+    name VARCHAR(50),
+    age INT NOT NULL
+);
+
+-- INSERT DATA
+INSERT INTO student VALUES (101, "abc" , 29);
+INSERT INTO student VALUES (102, "xyz" , 24);
+INSERT INTO student VALUES (103, "opq" , 20);
+
+-- SELECT DATA
+SELECT * FROM student;
+
+-- SHOW TABLES
+SHOW TABLES;
