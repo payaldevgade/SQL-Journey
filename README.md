@@ -2,6 +2,7 @@
 
 This repository contains my SQL practice and learning journey using MySQL.
 
+
 ## Topics Covered
 
 - Database creation
