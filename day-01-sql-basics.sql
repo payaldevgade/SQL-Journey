@@ -1,7 +1,4 @@
 
 
--- SELECT DATA
-SELECT * FROM student;
-
 -- SHOW TABLES
 SHOW TABLES;
