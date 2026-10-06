@@ -1,10 +1,5 @@
 
-
-C
--- INSERT DATA
-INSERT INTO student VALUES (101, "abc" , 29);
-INSERT INTO student VALUES (102, "xyz" , 24);
-INSERT INTO student VALUES (103, "opq" , 20);
+tudent VALUES (103, "opq" , 20);
 
 -- SELECT DATA
 SELECT * FROM student;
