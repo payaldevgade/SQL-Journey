@@ -1,16 +1,6 @@
 
 
-CREATE DATABASE college;
-
-USE college;
-
--- CREATE TABLE
-CREATE TABLE student (
-    id INT PRIMARY KEY,
-    name VARCHAR(50),
-    age INT NOT NULL
-);
-
+C
 -- INSERT DATA
 INSERT INTO student VALUES (101, "abc" , 29);
 INSERT INTO student VALUES (102, "xyz" , 24);
