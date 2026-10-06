@@ -1,4 +1,4 @@
--- DAY 1: SQL BASICS
+
 
 CREATE DATABASE college;
 
