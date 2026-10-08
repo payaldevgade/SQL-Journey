@@ -1,5 +1,4 @@
 -- SQL LEARNING
-
 -- Topic: Constraints
 
 
