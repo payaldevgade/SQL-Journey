@@ -121,7 +121,6 @@ VALUES (102, 'Neha', 99);
 
 -- Final checks
 
-
 SELECT * FROM employee;
 SELECT * FROM student;
 SELECT * FROM department;
