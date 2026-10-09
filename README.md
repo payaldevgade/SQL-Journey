@@ -24,6 +24,7 @@ This repository contains my SQL practice and learning journey using MySQL.
 - MySQL Workbench
 
 
+
 ## Goal
 
 To build strong SQL fundamentals through consistent hands-on practice.
