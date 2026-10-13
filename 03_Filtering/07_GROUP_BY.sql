@@ -1,5 +1,4 @@
 -- SQL Practice: GROUP BY Clause
-
 -- Database: sql_practice
 -- Table: student
 -- Topics: GROUP BY, COUNT, AVG, SUM, MAX, MIN, ORDER BY
