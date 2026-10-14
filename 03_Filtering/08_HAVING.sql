@@ -1,4 +1,3 @@
-
 -- SQL LEARNING
 -- Topic: HAVING CLAUSE
 
