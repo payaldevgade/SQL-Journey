@@ -33,7 +33,7 @@ FROM student
 GROUP BY city
 HAVING COUNT(*) > 1;
 
--- Q2: Display each course and its total marks.
+-- Q2: Display each course and its total marks
 -- Show only courses whose total marks are greater than 150
 SELECT course, SUM(marks) AS total_marks
 FROM student
