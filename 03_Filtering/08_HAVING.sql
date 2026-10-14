@@ -54,8 +54,8 @@ FROM student
 GROUP BY course
 HAVING COUNT(*) >= 2;
 
--- Q5: Display each course and its highest marks.
--- Show only courses whose highest marks are greater than 85.
+-- Q5: Display each course and its highest marks
+-- Show only courses whose highest marks are greater than 85
 SELECT course, MAX(marks) AS highest_marks
 FROM student
 GROUP BY course
