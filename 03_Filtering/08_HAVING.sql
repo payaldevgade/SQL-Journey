@@ -40,8 +40,8 @@ FROM student
 GROUP BY course
 HAVING SUM(marks) > 150;
 
--- Q3: Display each city and its average marks.
--- Show only cities whose average marks are greater than 80.
+-- Q3: Display each city and its average marks
+-- Show only cities whose average marks are greater than 80.=
 SELECT city, AVG(marks) AS average_marks
 FROM student
 GROUP BY city
