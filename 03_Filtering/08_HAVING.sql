@@ -47,8 +47,8 @@ FROM student
 GROUP BY city
 HAVING AVG(marks) > 80;
 
--- Q4: Display each course and its student count.
--- Show only courses having at least 2 students.
+-- Q4: Display each course and its student count
+-- Show only courses having at least 2 students
 SELECT course, COUNT(*) AS total_students
 FROM student
 GROUP BY course
