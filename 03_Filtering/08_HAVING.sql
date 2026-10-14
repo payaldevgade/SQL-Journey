@@ -26,8 +26,8 @@ INSERT INTO student VALUES
 -- STEP 4: CHECK THE TABLE
 SELECT * FROM student;
 
--- Q1: Display each city and its student count.
--- Show only cities having more than 1 student.
+-- Q1: Display each city and its student count
+-- Show only cities having more than 1 student
 SELECT city, COUNT(*) AS total_students
 FROM student
 GROUP BY city
