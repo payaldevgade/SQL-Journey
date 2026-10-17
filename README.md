@@ -17,7 +17,6 @@ This repository contains my SQL practice and learning journey using MySQL.
 ## Practice Structure
 
 - 'day-01-sql-basics.sql' — SQL fundamentals and basic database/table operations
-
 ## Tools Used
 
 - MySQL
