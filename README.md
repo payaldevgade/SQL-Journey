@@ -18,7 +18,7 @@ This repository contains my SQL practice and learning journey using MySQL.
 
 - 'day-01-sql-basics.sql' — SQL fundamentals and basic database/table operations
 
-## Tools Use
+## Tools Used
 
 - MySQL
 - MySQL Workbench
