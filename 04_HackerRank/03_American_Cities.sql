@@ -1,4 +1,4 @@
--- Topic: WHERE, AND
+-- Topic: WHERE, AND.
 
 SELECT *
 FROM CITY
