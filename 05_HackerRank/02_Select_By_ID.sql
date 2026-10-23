@@ -1,0 +1,5 @@
+-- Topic: WHERE clause
+
+SELECT *
+FROM CITY
+WHERE ID = 1661;
