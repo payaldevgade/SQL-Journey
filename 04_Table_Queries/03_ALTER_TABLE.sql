@@ -7,6 +7,7 @@ CREATE DATABASE  alter_practice;
 USE alter_practice;
 
 -- Create student table
+
 CREATE TABLE student (
     id INT PRIMARY KEY,
     name VARCHAR(50),
