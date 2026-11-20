@@ -34,6 +34,7 @@ ALTER TABLE student
 ADD COLUMN grade VARCHAR(5);
 
 -- Q2: Add an email column with VARCHAR(100)
+
 ALTER TABLE student
 ADD COLUMN email VARCHAR(100);
 
