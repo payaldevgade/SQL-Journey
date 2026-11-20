@@ -18,6 +18,7 @@ CREATE TABLE student (
 );
 
 -- Insert 5 student records
+
 INSERT INTO student VALUES
 (1, 'RAHUL', 20, 'BCA', 'BANGALORE', 85),
 (2, 'PRIYA', 21, 'BCA', 'MUMBAI', 90),
