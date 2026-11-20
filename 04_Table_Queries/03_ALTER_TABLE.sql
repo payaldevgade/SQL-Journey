@@ -44,6 +44,7 @@ ALTER TABLE student
 MODIFY COLUMN name VARCHAR(100);
 
 -- Q4: Rename the city column to location
+
 ALTER TABLE student
 CHANGE COLUMN city location VARCHAR(30);
 
