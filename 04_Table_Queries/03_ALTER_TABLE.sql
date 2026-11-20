@@ -1,4 +1,5 @@
 -- SQL LEARNING
+
 -- TOPIC: ALTER TABLE COMMAND
 
 CREATE DATABASE  alter_practice;
