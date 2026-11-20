@@ -27,6 +27,7 @@ INSERT INTO student VALUES
 SELECT * FROM student;
 
 -- Q1: Add a grade column with VARCHAR(5)
+
 ALTER TABLE student
 ADD COLUMN grade VARCHAR(5);
 
