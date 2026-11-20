@@ -49,6 +49,7 @@ ALTER TABLE student
 CHANGE COLUMN city location VARCHAR(30);
 
 -- Q5: Drop the email column
+
 ALTER TABLE student
 DROP COLUMN email;
 
