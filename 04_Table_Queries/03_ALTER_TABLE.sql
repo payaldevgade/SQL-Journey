@@ -39,6 +39,7 @@ ALTER TABLE student
 ADD COLUMN email VARCHAR(100);
 
 -- Q3: Modify the name column to VARCHAR(100)
+
 ALTER TABLE student
 MODIFY COLUMN name VARCHAR(100);
 
